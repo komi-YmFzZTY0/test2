@@ -1,1 +1,2 @@
 print("Hello world");
+print("You a skeleton");
